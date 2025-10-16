@@ -14,6 +14,10 @@ From our exploration of Coffee House coupons, several key insights emerge:
 * Higher income levels correlate with higher acceptance rates, suggesting disposable income plays a role in deciding to redeem a coupon.
 These observations indicate that Coffee House coupons are most effective among socially active drivers with higher incomes who already have a habit of visiting coffee houses.
 
+## View the Jupyter Notebook
+You can view the full analysis here:  
+👉 [Open the Notebook on GitHub](https://github.com/robin8wang/Practical_App1/blob/main/prompt.ipynb)
+
 ## Files Structure
 * Keep the same file name as `prompt.ipynb`, and dataset is also under the folder of `data`
 * No unnessary files
